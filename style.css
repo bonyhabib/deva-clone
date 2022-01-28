@@ -1,0 +1,39 @@
+img.wp-smiley,img.emoji {
+     display: inline !important;
+     border: none !important;
+     box-shadow: none !important;
+     height: 1em !important;
+     width: 1em !important;
+     margin: 0 .07em !important;
+     vertical-align: -0.1em !important;
+     background: none !important;
+     padding: 0 !important;
+}
+ body .aheto-footer, body .aheto-footer p {
+     color:#ffffff;
+}
+body .aheto-footer a{
+    color:#ffffff;
+}
+.line_v {
+    height:calc(100% - 50px);
+}
+    
+.line_v .elementor-widget-container {
+    height: 100%;
+}
+    
+.line_v .elementor-image {
+    height: 100%;
+ }
+    
+.line_v .elementor-image img   {
+    height: 100%;
+}
+.custom-video-btn  .aheto-banner-wrap--style-1 .banner-slide:before{
+    opacity:0 !important;
+}
+.main-header--deva-simple.main-header--desktop .main-header__menu-box .main-menu .menu-item--mega-menu:hover .mega-menu, .main-header--deva-simple.main-header--desktop .main-header__menu-box>ul .menu-item--mega-menu:hover .mega-menu{
+    overflow: auto!important;
+}
+
